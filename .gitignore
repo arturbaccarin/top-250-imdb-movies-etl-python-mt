@@ -1,0 +1,7 @@
+# files
+.env
+.coverage
+*.csv
+
+# folders
+/venv
